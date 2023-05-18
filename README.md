@@ -1,7 +1,7 @@
 <p align="center">
   <img src="descarga.jpg" alt="La cocina llevada a su máxima expresión" width="50%">
 </p>
-## La cocina llevada a su máxima expresión
+La cocina llevada a su máxima expresión
 
 En este repositorio encontrarás el corazón de la cocina, donde la inteligencia artificial se combina con la creatividad culinaria. Nos apasiona explorar nuevas recetas y técnicas culinarias utilizando la potencia de la IA para crear platos fáciles y creativos.
 
@@ -9,7 +9,7 @@ Si te gusta la cocina tanto como a nosotros, no dudes en explorar los proyectos 
 
 ¡Buen provecho!
 
-## Contacto
+Contacto
 
 Si tienes alguna pregunta o sugerencia, no dudes en contactarme. Puedes encontrarme en los siguientes enlaces:
 
