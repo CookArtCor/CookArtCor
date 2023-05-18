@@ -1,9 +1,6 @@
-# Perfil de GitHub
-
-¡Bienvenido/a a mi perfil de GitHub!
-
-![Imagen centrada](descarga.jpg)
-
+<p align="center">
+  <img src="descarga.jpg" alt="La cocina llevada a su máxima expresión" width="70%">
+</p>
 ## La cocina llevada a su máxima expresión
 
 En este repositorio encontrarás el corazón de la cocina, donde la inteligencia artificial se combina con la creatividad culinaria. Nos apasiona explorar nuevas recetas y técnicas culinarias utilizando la potencia de la IA para crear platos fáciles y creativos.
