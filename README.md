@@ -2,7 +2,7 @@
 
 ¡Bienvenido/a a mi perfil de GitHub!
 
-![Imagen centrada](ruta/a/la/imagen.jpg)
+![Imagen centrada](descarga.jpg)
 
 ## La cocina llevada a su máxima expresión
 
