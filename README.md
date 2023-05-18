@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="descarga.jpg" alt="La cocina llevada a su máxima expresión" width="70%">
+  <img src="descarga.jpg" alt="La cocina llevada a su máxima expresión" width="50%">
 </p>
 ## La cocina llevada a su máxima expresión
 
